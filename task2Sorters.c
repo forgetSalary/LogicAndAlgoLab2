@@ -1,5 +1,5 @@
 #include "task2Sorters.h"
-void shell(int *items, int count){
+void Shell(int *items, int count, ...){
     int i, j, gap, k;
     int x, a[5];
 
@@ -16,12 +16,11 @@ void shell(int *items, int count){
     }
 }
 
-void qs(int *items, int left, int right){ //вызов функции: qs(items, 0, count-1);
+void Qs(int *items, int right, int left){
     int i, j;
     int x, y;
 
-
-    i = left; j = right;
+    i = left-1; j = right;
 
     /* выбор компаранда */
     x = items[(left+right)/2];
@@ -38,13 +37,13 @@ void qs(int *items, int left, int right){ //вызов функции: qs(items,
         }
     } while(i <= j);
 
-    if(left < j) qs(items, left, j);
-    if(i < right) qs(items, i, right);
+    if(left < j) Qs(items, left, j);
+    if(i < right) Qs(items, i, right);
 }
 
 int compare(const void * x1, const void * x2){
     return ( *(int*)x1 - *(int*)x2 );
 }
-void stdQsort(int *items, int count){
+void StdQsort(int *items, int count, ...){
     qsort(items,count,sizeof(int),compare);
 }

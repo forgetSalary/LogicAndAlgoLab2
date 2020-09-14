@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "D:/Logic and Algo Labs/Lab2/main.c" "D:/Logic and Algo Labs/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/main.c.obj"
   "D:/Logic and Algo Labs/Lab2/task1.c" "D:/Logic and Algo Labs/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/task1.c.obj"
   "D:/Logic and Algo Labs/Lab2/task2.c" "D:/Logic and Algo Labs/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/task2.c.obj"
+  "D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.c" "D:/Logic and Algo Labs/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/task2ArrayGenerators.c.obj"
   "D:/Logic and Algo Labs/Lab2/task2Sorters.c" "D:/Logic and Algo Labs/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/task2Sorters.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")

@@ -4,11 +4,10 @@
 #endif //LAB2_TASK2SORTERS_H
 
 #include <stdlib.h>
-#include <time.h>
 
-void shell(int *items, int count);
+void Shell(int *items, int count, ...);
 
-void qs(int *items, int left, int right);
+void Qs(int *items, int left, int right);
 
-void stdQsort(int *items, int count);
+void StdQsort(int *items, int count, ...);
 

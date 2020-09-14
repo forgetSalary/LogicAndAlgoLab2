@@ -208,6 +208,33 @@ task2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab2.dir\task2.c.s
 .PHONY : task2.c.s
 
+task2ArrayGenerators.obj: task2ArrayGenerators.c.obj
+
+.PHONY : task2ArrayGenerators.obj
+
+# target to build an object file
+task2ArrayGenerators.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj
+.PHONY : task2ArrayGenerators.c.obj
+
+task2ArrayGenerators.i: task2ArrayGenerators.c.i
+
+.PHONY : task2ArrayGenerators.i
+
+# target to preprocess a source file
+task2ArrayGenerators.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab2.dir\task2ArrayGenerators.c.i
+.PHONY : task2ArrayGenerators.c.i
+
+task2ArrayGenerators.s: task2ArrayGenerators.c.s
+
+.PHONY : task2ArrayGenerators.s
+
+# target to generate assembly for a file
+task2ArrayGenerators.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab2.dir\task2ArrayGenerators.c.s
+.PHONY : task2ArrayGenerators.c.s
+
 task2Sorters.obj: task2Sorters.c.obj
 
 .PHONY : task2Sorters.obj
@@ -253,6 +280,9 @@ help:
 	@echo ... task2.obj
 	@echo ... task2.i
 	@echo ... task2.s
+	@echo ... task2ArrayGenerators.obj
+	@echo ... task2ArrayGenerators.i
+	@echo ... task2ArrayGenerators.s
 	@echo ... task2Sorters.obj
 	@echo ... task2Sorters.i
 	@echo ... task2Sorters.s

@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Lab2.dir/main.c.obj"
   "CMakeFiles/Lab2.dir/task1.c.obj"
   "CMakeFiles/Lab2.dir/task2.c.obj"
+  "CMakeFiles/Lab2.dir/task2ArrayGenerators.c.obj"
   "CMakeFiles/Lab2.dir/task2Sorters.c.obj"
   "Lab2.exe"
   "Lab2.exe.manifest"

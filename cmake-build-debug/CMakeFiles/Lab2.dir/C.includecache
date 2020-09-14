@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
-D:/Logic and Algo Labs/Lab2/task2Sorters.c
+D:/Logic and Algo Labs/Lab2/task2.c
+task2.h
+D:/Logic and Algo Labs/Lab2/task2.h
+
+D:/Logic and Algo Labs/Lab2/task2.h
+stdio.h
+-
 task2Sorters.h
 D:/Logic and Algo Labs/Lab2/task2Sorters.h
+task2ArrayGenerators.h
+D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.h
+
+D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.h
+stdlib.h
+-
+time.h
+-
 
 D:/Logic and Algo Labs/Lab2/task2Sorters.h
-time.h
+stdlib.h
 -
 

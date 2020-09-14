@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Logic and Algo Labs/Lab2/cmake-build-debug/task2ArrayGenerators.h">
+			<Option target="Lab2"/>
+		</Unit>
 		<Unit filename="D:/Logic and Algo Labs/Lab2/main.c">
 			<Option target="Lab2"/>
 		</Unit>
@@ -97,6 +100,12 @@
 			<Option target="Lab2"/>
 		</Unit>
 		<Unit filename="D:/Logic and Algo Labs/Lab2/task2.h">
+			<Option target="Lab2"/>
+		</Unit>
+		<Unit filename="D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.c">
+			<Option target="Lab2"/>
+		</Unit>
+		<Unit filename="D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.h">
 			<Option target="Lab2"/>
 		</Unit>
 		<Unit filename="D:/Logic and Algo Labs/Lab2/task2Sorters.c">

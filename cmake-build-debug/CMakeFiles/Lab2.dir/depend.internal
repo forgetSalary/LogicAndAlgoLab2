@@ -5,6 +5,7 @@ CMakeFiles/Lab2.dir/main.c.obj
  D:/Logic and Algo Labs/Lab2/main.c
  D:/Logic and Algo Labs/Lab2/task1.h
  D:/Logic and Algo Labs/Lab2/task2.h
+ D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.h
  D:/Logic and Algo Labs/Lab2/task2Sorters.h
 CMakeFiles/Lab2.dir/task1.c.obj
  D:/Logic and Algo Labs/Lab2/task1.c
@@ -12,7 +13,11 @@ CMakeFiles/Lab2.dir/task1.c.obj
 CMakeFiles/Lab2.dir/task2.c.obj
  D:/Logic and Algo Labs/Lab2/task2.c
  D:/Logic and Algo Labs/Lab2/task2.h
+ D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.h
  D:/Logic and Algo Labs/Lab2/task2Sorters.h
+CMakeFiles/Lab2.dir/task2ArrayGenerators.c.obj
+ D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.c
+ D:/Logic and Algo Labs/Lab2/task2ArrayGenerators.h
 CMakeFiles/Lab2.dir/task2Sorters.c.obj
  D:/Logic and Algo Labs/Lab2/task2Sorters.c
  D:/Logic and Algo Labs/Lab2/task2Sorters.h

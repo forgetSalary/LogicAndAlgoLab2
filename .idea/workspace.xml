@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Lab2" targetName="Lab2" />
@@ -11,7 +29,39 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670a4dd4-2053-4602-9e21-e8c70444d28f" name="Default Changelist" comment="" />
+    <list default="true" id="670a4dd4-2053-4602-9e21-e8c70444d28f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/task2ArrayGenerators.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2ArrayGenerators.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2ArrayGenerators.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/task1.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/task1.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/task2.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/task2.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/task2Sorters.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/task2Sorters.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab2.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.c" beforeDir="false" afterPath="$PROJECT_DIR$/task1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.c" beforeDir="false" afterPath="$PROJECT_DIR$/task2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.h" beforeDir="false" afterPath="$PROJECT_DIR$/task2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2Sorters.c" beforeDir="false" afterPath="$PROJECT_DIR$/task2Sorters.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2Sorters.h" beforeDir="false" afterPath="$PROJECT_DIR$/task2Sorters.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,23 +71,28 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hP1gwXU9zbFULi1HVuA8EWJ0GC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Lab2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab2" TARGET_NAME="Lab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab2" RUN_TARGET_NAME="Lab2">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab2" TARGET_NAME="Lab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab2" RUN_TARGET_NAME="Lab2">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -57,45 +112,57 @@
       <option name="presentableId" value="Default" />
       <updated>1599898028538</updated>
       <workItem from="1599898033956" duration="22915000" />
-      <workItem from="1600091161628" duration="448000" />
+      <workItem from="1600091161628" duration="3770000" />
+      <workItem from="1600108682825" duration="8247000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="842" height="497" key="GridCell.Tab.0.bottom" timestamp="1599933588084">
+    <state width="842" height="540" key="GridCell.Tab.0.bottom" timestamp="1600116904292">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="842" height="497" key="GridCell.Tab.0.bottom/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588084" />
-    <state width="842" height="497" key="GridCell.Tab.0.center" timestamp="1599933588084">
+    <state width="842" height="540" key="GridCell.Tab.0.bottom/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600116904292" />
+    <state width="842" height="540" key="GridCell.Tab.0.center" timestamp="1600116904292">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="842" height="497" key="GridCell.Tab.0.center/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588084" />
-    <state width="842" height="497" key="GridCell.Tab.0.left" timestamp="1599933588083">
+    <state width="842" height="540" key="GridCell.Tab.0.center/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600116904292" />
+    <state width="842" height="540" key="GridCell.Tab.0.left" timestamp="1600116904292">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="842" height="497" key="GridCell.Tab.0.left/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588083" />
-    <state width="842" height="497" key="GridCell.Tab.0.right" timestamp="1599933588084">
+    <state width="842" height="540" key="GridCell.Tab.0.left/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600116904292" />
+    <state width="842" height="540" key="GridCell.Tab.0.right" timestamp="1600116904292">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="842" height="497" key="GridCell.Tab.0.right/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588084" />
-    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1599933588075">
+    <state width="842" height="540" key="GridCell.Tab.0.right/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600116904292" />
+    <state width="1397" height="247" key="GridCell.Tab.1.bottom" timestamp="1600115495864">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588075" />
-    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1599933588075">
+    <state width="1397" height="247" key="GridCell.Tab.1.bottom/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600115495864" />
+    <state width="1397" height="247" key="GridCell.Tab.1.center" timestamp="1600115495864">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588075" />
-    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1599933588075">
+    <state width="1397" height="247" key="GridCell.Tab.1.center/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600115495864" />
+    <state width="1397" height="247" key="GridCell.Tab.1.left" timestamp="1600115495864">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588075" />
-    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1599933588075">
+    <state width="1397" height="247" key="GridCell.Tab.1.left/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600115495864" />
+    <state width="1397" height="247" key="GridCell.Tab.1.right" timestamp="1600115495864">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1599933588075" />
+    <state width="1397" height="247" key="GridCell.Tab.1.right/0.0.1440.860/-1280.-125.1280.984@0.0.1440.860" timestamp="1600115495864" />
   </component>
 </project>

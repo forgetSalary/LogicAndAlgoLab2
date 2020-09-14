@@ -137,12 +137,32 @@ CMakeFiles\Lab2.dir\task2Sorters.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Lab2.dir\task2Sorters.c.s /c "D:\Logic and Algo Labs\Lab2\task2Sorters.c"
 <<
 
+CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj: CMakeFiles\Lab2.dir\flags.make
+CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj: ..\task2ArrayGenerators.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Logic and Algo Labs\Lab2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Lab2.dir/task2ArrayGenerators.c.obj"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj /FdCMakeFiles\Lab2.dir\ /FS -c "D:\Logic and Algo Labs\Lab2\task2ArrayGenerators.c"
+<<
+
+CMakeFiles\Lab2.dir\task2ArrayGenerators.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lab2.dir/task2ArrayGenerators.c.i"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\Lab2.dir\task2ArrayGenerators.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Logic and Algo Labs\Lab2\task2ArrayGenerators.c"
+<<
+
+CMakeFiles\Lab2.dir\task2ArrayGenerators.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lab2.dir/task2ArrayGenerators.c.s"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Lab2.dir\task2ArrayGenerators.c.s /c "D:\Logic and Algo Labs\Lab2\task2ArrayGenerators.c"
+<<
+
 # Object files for target Lab2
 Lab2_OBJECTS = \
 "CMakeFiles\Lab2.dir\main.c.obj" \
 "CMakeFiles\Lab2.dir\task1.c.obj" \
 "CMakeFiles\Lab2.dir\task2.c.obj" \
-"CMakeFiles\Lab2.dir\task2Sorters.c.obj"
+"CMakeFiles\Lab2.dir\task2Sorters.c.obj" \
+"CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj"
 
 # External object files for target Lab2
 Lab2_EXTERNAL_OBJECTS =
@@ -151,9 +171,10 @@ Lab2.exe: CMakeFiles\Lab2.dir\main.c.obj
 Lab2.exe: CMakeFiles\Lab2.dir\task1.c.obj
 Lab2.exe: CMakeFiles\Lab2.dir\task2.c.obj
 Lab2.exe: CMakeFiles\Lab2.dir\task2Sorters.c.obj
+Lab2.exe: CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj
 Lab2.exe: CMakeFiles\Lab2.dir\build.make
 Lab2.exe: CMakeFiles\Lab2.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Logic and Algo Labs\Lab2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable Lab2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Logic and Algo Labs\Lab2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable Lab2.exe"
 	"D:\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Lab2.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Lab2.dir\objects1.rsp @<<
  /out:Lab2.exe /implib:Lab2.lib /pdb:"D:\Logic and Algo Labs\Lab2\cmake-build-debug\Lab2.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

@@ -4,6 +4,7 @@
 CMakeFiles\Lab2.dir\main.c.obj: ..\main.c
 CMakeFiles\Lab2.dir\main.c.obj: ..\task1.h
 CMakeFiles\Lab2.dir\main.c.obj: ..\task2.h
+CMakeFiles\Lab2.dir\main.c.obj: ..\task2ArrayGenerators.h
 CMakeFiles\Lab2.dir\main.c.obj: ..\task2Sorters.h
 
 CMakeFiles\Lab2.dir\task1.c.obj: ..\task1.c
@@ -11,7 +12,11 @@ CMakeFiles\Lab2.dir\task1.c.obj: ..\task1.h
 
 CMakeFiles\Lab2.dir\task2.c.obj: ..\task2.c
 CMakeFiles\Lab2.dir\task2.c.obj: ..\task2.h
+CMakeFiles\Lab2.dir\task2.c.obj: ..\task2ArrayGenerators.h
 CMakeFiles\Lab2.dir\task2.c.obj: ..\task2Sorters.h
+
+CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj: ..\task2ArrayGenerators.c
+CMakeFiles\Lab2.dir\task2ArrayGenerators.c.obj: ..\task2ArrayGenerators.h
 
 CMakeFiles\Lab2.dir\task2Sorters.c.obj: ..\task2Sorters.c
 CMakeFiles\Lab2.dir\task2Sorters.c.obj: ..\task2Sorters.h

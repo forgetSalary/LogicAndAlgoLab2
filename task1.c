@@ -79,7 +79,7 @@ int task1(void){
     finish_time=clock();
 
     double wait_time = (double)(finish_time - start_time) / CLOCKS_PER_SEC;
-    
+
 
     printf("%f",wait_time);
 
