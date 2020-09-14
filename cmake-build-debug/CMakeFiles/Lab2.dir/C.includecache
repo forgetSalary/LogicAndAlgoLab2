@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Logic and Algo Labs/Lab2/task2Sorters.c
+task2Sorters.h
+D:/Logic and Algo Labs/Lab2/task2Sorters.h
+
+D:/Logic and Algo Labs/Lab2/task2Sorters.h
+time.h
+-
+
