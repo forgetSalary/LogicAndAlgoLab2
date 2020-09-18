@@ -55,5 +55,4 @@ void task2(){
     testSorter(shell,Shell);
     testSorter(qs,Qs);
     testSorter(std_qs,StdQsort);
-
 }

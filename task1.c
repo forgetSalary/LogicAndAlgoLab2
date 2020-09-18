@@ -1,6 +1,5 @@
 #include "task1.h"
 
-#define SIZE 1000
 #define sqrMatrix(s) (int**) malloc(s*sizeof(int*) + s*s*sizeof(int))
 
 void arrOutput(int* arr,int r,int c){
@@ -35,6 +34,11 @@ int task1(void){
     int** b=NULL;
     int** c=NULL;
 
+    int SIZE;
+
+    printf("Enter matrix size:");
+    scanf_s("%d",&SIZE);
+
     a=sqrMatrix(SIZE);
     b=sqrMatrix(SIZE);
     c=sqrMatrix(SIZE);
@@ -43,7 +47,6 @@ int task1(void){
     defMatrxPoiners(b,SIZE);
     defMatrxPoiners(c,SIZE);
 
-    printf("Matrix size: %d\n",SIZE);
 
     srand(time(NULL)); // инициализируем параметры генератора случайных чисел
     for(i=0;i<SIZE;i++){
